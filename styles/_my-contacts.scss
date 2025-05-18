@@ -1,0 +1,10 @@
+.my-contacts {
+    font-size: 2rem;
+    margin: 50px;
+    list-style: none;
+    
+    &__link {
+        text-decoration: none;
+        color: #000;
+    }
+}

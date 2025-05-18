@@ -1,0 +1,12 @@
+.main {
+    padding: 300px 0;
+    background-image: url('/images/Background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+
+    &__description {
+        font-size: 2rem;
+    }
+}

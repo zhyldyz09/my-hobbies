@@ -1,6 +1,6 @@
 .main {
     padding: 300px 0;
-    background-image: url('');
+    background-image: url('../images/Background.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -8,5 +8,6 @@
 
     &__description {
         font-size: 2rem;
+        font-weight: 500;
     }
 }
